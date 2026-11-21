@@ -136,3 +136,7 @@ LLM Wiki的概念來源為Karpathy的[原始說明](https://gist.github.com/karp
 ## 2026-11-21｜設計規範獨立整理與修改後自檢
 
 已提取 [設計與驗收規範](presentation/design-spec.md)，區分已確認原則、v2實作參考值與尚未驗證功能；AGENTS.md要求每次修改後主動檢查、修正及複驗。使用者本輪確認桌面Edge／Chrome投影為主、手機只要求可開啟，以及瀏覽器列印PDF每張投影片一頁。下一階段須實測；本輪僅修改文件，未改簡報、重建預覽或驗證播放／列印。全文舊有「風格待確認／12頁」敘述為歷史，接手依v4的14頁與美術v2。本輪未啟動完整實作。
+
+## 2026-11-22｜GitHub 交付
+
+已依使用者要求初始化 Git，並將完整專案初始提交 ef16bfb 推送至 [GitHub 儲存庫](https://github.com/meteor4321/LLM-wiki_hw_week10)，分支 main，遠端 origin，已設定追蹤 origin/main。新增 .gitignore 排除 Python 編譯快取；原研究及簡報內容未修改。後續修改沿用此儲存庫，提交前先檢查 git status；本輪未設定 GitHub Pages。
