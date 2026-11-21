@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>AI 駕駛與人類駕駛｜美術測試</title><link rel="stylesheet" href="assets/fonts.css"><link rel="stylesheet" href="preview.css"></head>
+<body>
+<main aria-label="簡報美術測試">
+<section class="slide cover active" id="cover" aria-label="封面測試">
+ <div class="topline"><span>道路、風險與真實世界的證據</span><span class="edition">研究選讀 / 2026</span></div>
+ <div class="cover-copy"><p class="eyebrow">從真實營運研究，理解安全比較</p><h1>AI 與人類駕駛，<br>誰更安全<span class="accent">？</span></h1><p class="intro">比較相同行駛距離的事故率，<br>看懂真實道路上的安全證據。</p></div>
+ <svg class="road-art" viewBox="75 0 585 680" role="img" aria-label="以道路、樹木與兩輛車構成的教學示意">
+ <circle cx="400" cy="242" r="218" fill="#e7decf"/><circle cx="535" cy="127" r="53" fill="#b66c50" opacity=".65"/>
+ <path d="M710 630H310C140 630 140 420 310 420h100c135 0 135-210 0-210H190" fill="none" stroke="#557365" stroke-width="129"/>
+ <path d="M710 630H310C140 630 140 420 310 420h100c135 0 135-210 0-210H190" fill="none" stroke="#f6f3ec" stroke-width="2" stroke-dasharray="17 17"/>
+ <g transform="translate(285 370) rotate(0 54 28)"><rect width="110" height="58" rx="19" fill="#f6f3ec" stroke="#29332f" stroke-width="2"/><path d="M32 5v48M80 5v48" stroke="#29332f" stroke-width="2"/><rect x="36" y="9" width="39" height="40" rx="6" fill="#bfcac0"/><rect x="17" y="-5" width="19" height="7" rx="3" fill="#29332f"/><rect x="75" y="56" width="19" height="7" rx="3" fill="#29332f"/></g>
+ <g transform="translate(232 184)"><rect width="108" height="55" rx="18" fill="#d5a18a" stroke="#29332f" stroke-width="2"/><path d="M29 5v45M79 5v45" stroke="#29332f" stroke-width="2"/><rect x="34" y="9" width="39" height="37" rx="5" fill="#f6f3ec"/><rect x="16" y="-5" width="19" height="7" rx="3" fill="#29332f"/><rect x="74" y="53" width="19" height="7" rx="3" fill="#29332f"/></g>
+ <g fill="none" stroke="#29332f" stroke-width="2"><path d="M116 405v-88m0 18-25 26m25-9 25-24"/><path d="M88 348c-38-40 16-107 30-107 23 0 62 67 28 105"/><path d="M562 485v-89m0 21-23 22m23-5 24-25"/><path d="M536 432c-33-38 9-94 26-94 21 0 58 60 28 94"/></g>
+ <path d="M56 498h69m-35-12v25" stroke="#b66c50" stroke-width="2"/><text x="390" y="580" font-size="14" fill="#29332f">道路場景・教學示意</text>
+ </svg>
+ <footer><span>AI 駕駛 vs. 人類駕駛：誰更安全？</span><span>01 / 12</span></footer>
+</section>
+<section class="slide data" id="evidence" aria-label="數據頁測試" hidden>
+ <div class="topline"><span>真實道路 / 受傷相關事故</span><span class="edition">研究 P01</span></div>
+ <h2>Waymo 的受傷事故涉及率較低</h2>
+ <p class="deck">比較相同行駛距離，涉及有人回報受傷事故的頻率。</p>
+ <div class="data-layout"><div class="chart"><p class="unit">涉事車次／百萬英里</p>
+ <svg viewBox="0 0 740 320" role="img" aria-label="人類基準4.04，Waymo 0.85涉事車次每百萬英里；橫軸從零至5">
+ <g stroke="#ddd8ce" stroke-width="1"><path d="M150 36v215M250 36v215M350 36v215M450 36v215M550 36v215M650 36v215"/></g>
+ <text x="0" y="104" class="chart-label">人類基準</text><text x="0" y="204" class="chart-label">Waymo</text>
+ <rect x="150" y="64" width="404" height="58" fill="#b66c50"/><rect x="150" y="164" width="85" height="58" fill="#557365"/>
+ <text x="570" y="105" class="chart-number">4.04</text><text x="251" y="205" class="chart-number">0.85</text>
+ <path d="M150 251H650" stroke="#8a8d83"/>
+ <g class="axis"><text x="150" y="284">0</text><text x="250" y="284">1</text><text x="350" y="284">2</text><text x="450" y="284">3</text><text x="550" y="284">4</text><text x="650" y="284">5</text></g>
+ </svg><p class="chart-note">人類基準經作者調整；這不是乘客個人的受傷率。</p></div>
+ <aside class="finding"><p class="finding-label">作者報告的減幅</p><div class="big-number">79<span>%</span></div><p class="interval">95% 信賴區間：71%–85%</p><hr><p>約 <strong>5,670 萬英里</strong><br>無車內駕駛的營運資料</p></aside></div>
+ <div class="scope"><p>美國四區一般道路；Waymo 至 2025 年 1 月，人類多為 2022 年資料。作者全為 Waymo 員工。</p><p><a href="../raw/papers/P01_kusano_2025_56_7m.pdf#page=12" target="_blank" rel="noopener">來源：P01，表 2–4，PDF 頁 10–12</a>。減幅與區間採作者報告值。</p></div>
+ <footer><span>AI 駕駛 vs. 人類駕駛：誰更安全？</span><span>05 / 12</span></footer>
+</section>
+<section class="slide concept" id="concept" aria-label="概念頁測試" hidden>
+ <div class="topline"><span>系統安全 / 異常處置</span><span class="edition">研究 P08</span></div>
+ <h2>遇到異常，系統須能安全處置</h2><p class="deck">安全設計要涵蓋正常駕駛，也要考慮故障與陌生情況。</p>
+ <div class="flow" aria-label="看見、判斷、控制，以及監測與安全處置的概念示意">
+ <div class="step"><span class="step-index">01</span><svg viewBox="0 0 100 70" aria-hidden="true"><path d="M10 35q40-53 80 0-40 53-80 0Z"/><circle cx="50" cy="35" r="14"/></svg><h3>看見</h3><p>辨識道路與周遭物件</p></div>
+ <span class="arrow" aria-hidden="true">⟶</span>
+ <div class="step"><span class="step-index">02</span><svg viewBox="0 0 100 70" aria-hidden="true"><path d="M18 55V20h26m-8-9 9 9-9 9M45 55V35h33m-9-9 9 9-9 9"/><circle cx="18" cy="59" r="5"/></svg><h3>判斷</h3><p>預測變化並規劃行動</p></div>
+ <span class="arrow" aria-hidden="true">⟶</span>
+ <div class="step"><span class="step-index">03</span><svg viewBox="0 0 100 70" aria-hidden="true"><circle cx="50" cy="35" r="28"/><circle cx="50" cy="35" r="8"/><path d="m24 25 19 7m33-7-19 7m-7 11v19"/></svg><h3>控制</h3><p>執行轉向、加速與煞車</p></div>
+ </div>
+ <div class="monitor"><div class="monitor-label"><span class="small-dot"></span>監測發現異常</div><span class="monitor-arrow">→</span><div><h3>啟動安全處置</h3><p>依當下環境降低危險，例如減速並選擇合適位置停車。</p></div></div>
+ <div class="scope"><p>概念示意，非 Waymo 實際系統架構；本研究未量測該車隊的失效比例。</p><p><a href="../raw/papers/P08_koopman_2017_safety.pdf#page=2" target="_blank" rel="noopener">來源：Koopman 與 Wagner（2017），P08 接受稿頁 2–6</a>；本專案依其論點整理繪製。</p></div>
+ <footer><span>AI 駕駛 vs. 人類駕駛：誰更安全？</span><span>10 / 12</span></footer>
+</section>
+</main>
+<nav aria-label="測試頁導覽"><span class="preview-tag">美術測試</span><button data-page="0" aria-current="page">01 封面</button><button data-page="1">02 數據</button><button data-page="2">03 概念</button><span class="nav-help">← → 切頁</span><button id="fullscreen" aria-label="切換全螢幕">全螢幕 ↗</button></nav>
+<script src="preview.js"></script></body></html>

@@ -1,0 +1,105 @@
+{
+  "checked_date_taipei": "2026-11-21",
+  "source_pdf": "raw/papers/P01_kusano_2025_56_7m.pdf",
+  "source_version": "Accepted manuscript, 58 PDF pages; PDF page numbering used",
+  "rate_unit": "crashed vehicle involvements in crashes with specified outcome per million vehicle miles",
+  "exposure_million_miles_approx": 56.7,
+  "exposure_source": "PDF pages 10-11, Table 2 and results; rounded published exposure, not exact raw miles",
+  "formulas": {
+    "ads_rate_from_count": "event_count / exposure_million_miles_approx",
+    "rounded_rate_ratio": "ads_rate_published_rounded / human_rate_published_rounded",
+    "rounded_relative_reduction_percent": "(1 - rounded_rate_ratio) * 100",
+    "rounded_absolute_rate_difference": "human_rate_published_rounded - ads_rate_published_rounded"
+  },
+  "aggregate_results": [
+    {
+      "outcome": "any_injury_reported",
+      "event_count": 48,
+      "count_source": "PDF page 11, Table 3",
+      "human_rate_published_rounded": 4.04,
+      "ads_rate_published_rounded": 0.85,
+      "author_relative_reduction_percent": 79,
+      "author_reduction_ci95_percent": [
+        71,
+        85
+      ],
+      "comparison_source": "PDF page 12, Table 4, all locations mileage blended",
+      "human_underreporting_adjusted": true,
+      "spatially_adjusted": true,
+      "derived_arithmetic": {
+        "ads_rate_from_approx_exposure": 0.8465608465608465,
+        "rounded_rate_ratio": 0.2103960396039604,
+        "rounded_relative_reduction_percent": 78.96039603960396,
+        "rounded_absolute_rate_difference": 3.19
+      },
+      "use_author_estimates_for_reporting": true
+    },
+    {
+      "outcome": "airbag_deployment",
+      "event_count": 18,
+      "count_source": "PDF page 11, Table 3",
+      "human_rate_published_rounded": 1.69,
+      "ads_rate_published_rounded": 0.32,
+      "author_relative_reduction_percent": 81,
+      "author_reduction_ci95_percent": [
+        69,
+        90
+      ],
+      "comparison_source": "PDF page 12, Table 4, all locations mileage blended",
+      "human_underreporting_adjusted": false,
+      "spatially_adjusted": true,
+      "derived_arithmetic": {
+        "ads_rate_from_approx_exposure": 0.31746031746031744,
+        "rounded_rate_ratio": 0.18934911242603553,
+        "rounded_relative_reduction_percent": 81.06508875739644,
+        "rounded_absolute_rate_difference": 1.3699999999999999
+      },
+      "use_author_estimates_for_reporting": true
+    },
+    {
+      "outcome": "suspected_serious_injury_plus",
+      "event_count": 2,
+      "count_source": "PDF page 11, Table 3",
+      "human_rate_published_rounded": 0.24,
+      "ads_rate_published_rounded": 0.04,
+      "author_relative_reduction_percent": 85,
+      "author_reduction_ci95_percent": [
+        39,
+        99
+      ],
+      "comparison_source": "PDF page 12, Table 4, all locations mileage blended",
+      "human_underreporting_adjusted": false,
+      "spatially_adjusted": true,
+      "derived_arithmetic": {
+        "ads_rate_from_approx_exposure": 0.03527336860670194,
+        "rounded_rate_ratio": 0.16666666666666669,
+        "rounded_relative_reduction_percent": 83.33333333333333,
+        "rounded_absolute_rate_difference": 0.19999999999999998
+      },
+      "use_author_estimates_for_reporting": true
+    }
+  ],
+  "adverse_subgroup": {
+    "location": "Phoenix",
+    "outcome": "any_injury_reported",
+    "crash_type": "F2R Struck",
+    "source": "PDF page 40, Table A9",
+    "human_rate_published_rounded": 0.22,
+    "ads_rate_published_rounded": 0.48,
+    "author_relative_increase_percent": 117,
+    "author_increase_ci95_percent": [
+      11,
+      281
+    ],
+    "human_role_split_assumption": "50% striking, 50% struck; PDF page 39",
+    "multiple_comparison_correction": false,
+    "fault_inference": "Not established by crash involvement rate"
+  },
+  "verification_limits": [
+    "Values transcribed and checked against rendered source pages.",
+    "Only arithmetic using rounded exposure and rounded rates was recomputed.",
+    "Author confidence intervals and relative reductions were not recomputed.",
+    "No full raw crash classification, spatial weighting or underreporting reconstruction."
+  ],
+  "internal_discrepancies": "See wiki/questions.md; primary results use Table 4, not appendix narrative page 43."
+}

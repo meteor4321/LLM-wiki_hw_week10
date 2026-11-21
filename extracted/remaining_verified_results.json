@@ -1,0 +1,45 @@
+{
+  "date_taipei": "2026-11-21",
+  "scope": "Published values checked against stored PDFs; not independent statistical replication",
+  "P02": {
+    "reference": "PDF/printed pages 4-5, Figure 2C",
+    "mode": "Rider Only",
+    "miles": 3868506,
+    "unit": "liability claims per million miles",
+    "property_damage": {"ADS": 0.78, "ADS_CI95": [0.16, 2.27], "human": 3.26, "human_CI95": [3.24, 3.27], "author_reduction_percent": 76},
+    "bodily_injury": {"observed_claims": 0, "ADS": 0, "ADS_CI95": [0, 0.95], "human": 1.11, "human_CI95": [1.10, 1.12], "author_reduction_percent": 100},
+    "warning": "Intervals belong to frequencies, not reductions; no medical injury severity breakdown; zero observations do not imply zero risk"
+  },
+  "P04": {
+    "reference": "Accepted manuscript PDF pages 8-9 Tables 2-3, page 25 Table 8",
+    "year": 2022,
+    "unit": "crashed vehicle involvements per million miles",
+    "geographic_order": ["National", "Maricopa", "San Francisco", "Los Angeles"],
+    "any_injury_unadjusted": [1.21, 1.24, 3.98, 1.54],
+    "any_injury_Blincoe_adjusted": [1.76, 1.81, 5.82, 2.26],
+    "any_damage_or_injury_Blincoe": [8.94, 9.43, 10.49, 6.84],
+    "any_damage_or_injury_Blanco": [19.8, 21, 17.6, 13.8],
+    "national_all_vehicle_involvements": 10528849,
+    "national_crashes": 5930496,
+    "national_million_vehicle_miles": 3196191,
+    "nonfatal_underreporting_fraction": 0.319,
+    "nonfatal_author_factor": 1.47,
+    "hypothetical_power": {"ADS_to_human_rate_ratio": 0.5, "power": 0.8, "two_sided_alpha": 0.05, "million_miles_any_injury": 14.8, "million_miles_serious_plus": 240.4, "million_miles_fatal_crash": 1451.3},
+    "warning": "National nonfatal road filter excludes interstates only; these are human benchmarks and hypothetical power calculations, not new ADS outcomes"
+  },
+  "P05": {"reference": "PDF pages 5,13,14 = journal pages 610,618,619; Tables 1,3-5", "main_recommendations": 15, "type": "working-group methodological consensus, no new fleet effect"},
+  "P08": {"reference": "Accepted manuscript PDF page 6 Testing", "type": "author hypothetical example, not observed driving data", "vehicles": 1000000, "operations_per_vehicle_hour": 10000, "fleet_operations_per_hour": 10000000000},
+  "P09": {
+    "reference": "PDF pages 3,6 Table 2,7 Figure",
+    "sample": 955, "responsible": 453, "not_responsible": 502,
+    "intense_responsible": 78, "intense_not_responsible": 43,
+    "none_reported_responsible": 210, "none_reported_not_responsible": 251,
+    "unadjusted_intense_OR": 2.17, "unadjusted_CI95": [1.43, 3.29],
+    "adjusted_intense_OR": 2.12, "adjusted_intense_CI95": [1.37, 3.28],
+    "adjusted_little_OR": 1.06, "adjusted_little_CI95": [0.79, 1.42],
+    "adjusted_any_OR": 1.26, "adjusted_any_CI95": [0.96, 1.64], "adjusted_any_p": 0.097,
+    "police_subsample": 174, "police_subsample_adjusted_intense_OR": 3.01, "police_subsample_CI95": [0.9, 10.04], "police_subsample_p": 0.074,
+    "warning": "Responsibility odds among injured crash-involved drivers; no mileage or ADS comparator; recruitment arithmetic inconsistency preserved in evidence ledger"
+  },
+  "arithmetic_assumptions": "Calculations use rounded published rates and counts only. No CI, adjusted regression, exposure reweighting or power model is recomputed."
+}

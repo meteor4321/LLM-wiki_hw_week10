@@ -1,0 +1,410 @@
+{
+  "date_taipei": "2026-11-21",
+  "browsers": [
+    {
+      "name": "Edge",
+      "version": "157.0.4341.60",
+      "offline": true,
+      "slides": 23,
+      "fullscreen": true,
+      "navigation": true,
+      "notes": true,
+      "fonts": {
+        "sans": true,
+        "serif": true
+      },
+      "localLinks": [
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=4",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=2",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=6",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=8",
+        "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=11",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=6",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=5",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=40",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+        "../raw/papers/P08_koopman_2017_safety.pdf#page=2",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=4",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=1",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md",
+        "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=1",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md",
+        "../raw/papers/P08_koopman_2017_safety.pdf#page=1",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md"
+      ],
+      "desktopSizes": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "contentScopeOverlap": []
+        },
+        {
+          "width": 1366,
+          "height": 768,
+          "contentScopeOverlap": []
+        }
+      ],
+      "mobileEmulation": {
+        "width": 390,
+        "height": 844,
+        "visibleSlides": 1,
+        "horizontalOverflow": false
+      }
+    },
+    {
+      "name": "Chrome",
+      "version": "157.0.8103.79",
+      "offline": true,
+      "slides": 23,
+      "fullscreen": true,
+      "navigation": true,
+      "notes": true,
+      "fonts": {
+        "sans": true,
+        "serif": true
+      },
+      "localLinks": [
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=4",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=2",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=6",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=8",
+        "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=11",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=6",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=5",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=40",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+        "../raw/papers/P08_koopman_2017_safety.pdf#page=2",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=4",
+        "../raw/papers/P01_kusano_2025_56_7m.pdf#page=1",
+        "../raw/papers/P02_dilillo_2024_insurance.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md",
+        "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=1",
+        "../raw/papers/P05_scanlon_2025_rave.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md",
+        "../raw/papers/P08_koopman_2017_safety.pdf#page=1",
+        "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=1",
+        "../sources/catalog.md",
+        "../sources/review-v2.md"
+      ],
+      "desktopSizes": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "contentScopeOverlap": []
+        },
+        {
+          "width": 1366,
+          "height": 768,
+          "contentScopeOverlap": []
+        }
+      ],
+      "mobileEmulation": {
+        "width": 390,
+        "height": 844,
+        "visibleSlides": 1,
+        "horizontalOverflow": false
+      }
+    }
+  ],
+  "network": [],
+  "console": [],
+  "slides": [
+    {
+      "id": "s01",
+      "title": "AI 與人類駕駛，誰更安全？",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "overflow": [
+        "svg:\n \n \n \n \n \n \n 道路場景・教學示意\n "
+      ]
+    },
+    {
+      "id": "s02",
+      "title": "六篇研究分別回答不同的安全問題",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 647.21875,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s03",
+      "title": "主要道路證據來自美國的Waymo車隊",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 619.78125,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s04",
+      "title": "駕駛責任決定比較的對象",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 674.8125,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s05",
+      "title": "比較事故次數，也要看行駛距離",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 700.546875,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s06",
+      "title": "公平比較需要相近的行駛條件",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 675.21875,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s07",
+      "title": "Waymo 的受傷事故涉及率較低",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s08",
+      "title": "鳳凰城的被追撞情境涉及率較高",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 716.3125,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s09",
+      "title": "疑似重傷以上的涉及率也較低",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 635.109375,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s10",
+      "title": "第三方財損責任理賠頻率較低",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 742.0625,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s11",
+      "title": "強烈分心與較高事故責任勝算相關",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 582.09375,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s12",
+      "title": "遇到異常，系統須能安全處置",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s13",
+      "title": "不同研究提供互補的安全證據",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 681.546875,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "s14",
+      "title": "研究中的Waymo，兩類安全指標較好",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 696.71875,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a1a",
+      "title": "P01比較的是四區無車內駕駛營運",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 707.140625,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a1b",
+      "title": "P02比較第三方責任理賠頻率",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 707.140625,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a2",
+      "title": "三個傷勢相關結果會彼此重疊",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 570.234375,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a3",
+      "title": "樣本零理賠仍有估計上界",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 645.859375,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a4",
+      "title": "勝算比描述責任關聯，不能當每里風險",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 666.953125,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "a5",
+      "title": "方法與風險研究不新增成效樣本",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 707.140625,
+      "scopeTop": 787.453125,
+      "overflow": []
+    },
+    {
+      "id": "refs1",
+      "title": "參考文獻 1／3",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 712.140625,
+      "scopeTop": 792.484375,
+      "overflow": []
+    },
+    {
+      "id": "refs2",
+      "title": "參考文獻 2／3",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 739.25,
+      "scopeTop": 792.484375,
+      "overflow": []
+    },
+    {
+      "id": "refs3",
+      "title": "參考文獻 3／3",
+      "rect": {
+        "w": 1560,
+        "h": 877.5
+      },
+      "contentBottom": 739.25,
+      "scopeTop": 792.484375,
+      "overflow": []
+    }
+  ]
+}

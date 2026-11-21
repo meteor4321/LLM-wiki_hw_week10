@@ -1,0 +1,171 @@
+[
+  {
+    "id": "P01_kusano_2025_56_7m",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15389588.2025.2499887",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "path": "raw\\papers\\P01_kusano_2025_56_7m.pdf",
+    "url": "https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Impact%20Crash%20Type%20Manuscript.pdf",
+    "final_url": "https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Impact%20Crash%20Type%20Manuscript.pdf",
+    "bytes": 1856910,
+    "sha256": "6b9ccd0431f6e2f5eaf90d930d1dc6b658e7ebeaf792427963896312715bd84f",
+    "content_type": "application/pdf",
+    "status": "confirmed_core",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "id": "P02_dilillo_2024_insurance",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11305169/pdf/main.pdf",
+        "error": "Response is not a PDF: text/html; charset=utf-8"
+      },
+      {
+        "url": "https://www.cell.com/heliyon/pdf/S2405-8440(24)10410-1.pdf",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.research-collection.ethz.ch/bitstream/20.500.11850/685499/3/1-s2.0-S2405844024104100-main.pdf",
+        "error": "Response is not a PDF: text/html; charset=UTF-8"
+      },
+      {
+        "url": "https://europepmc.org/articles/PMC11305169?pdf=render",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405844024104100/pdfft",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.cell.com/heliyon/pdf/S2405-8440(24)10410-0.pdf",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "path": "raw\\papers\\P02_dilillo_2024_insurance.pdf",
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11305169.1/PMC11305169.1.pdf",
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11305169.1/PMC11305169.1.pdf",
+    "bytes": 1417574,
+    "sha256": "0a11431f4cec1bb1b6eefbdc991d284b18174bda22062faf240ecfbe13b76cc9",
+    "content_type": "binary/octet-stream",
+    "status": "confirmed_core",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "id": "P03_scanlon_2021_simulation",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [],
+    "url": "https://storage.googleapis.com/waymo-uploads/files/documents/Waymo-Simulated-Driving-Behavior-in-Reconstructed-Collisions.pdf",
+    "final_url": "https://storage.googleapis.com/waymo-uploads/files/documents/Waymo-Simulated-Driving-Behavior-in-Reconstructed-Collisions.pdf",
+    "bytes": 652698,
+    "sha256": "db5f6705c7da3878823b4406e12cbfc02aebccefe64e1cff270e35f982dace50",
+    "content_type": "application/pdf",
+    "removed_path": "raw\\papers\\P03_scanlon_2021_simulation.pdf",
+    "status": "removed_after_selection_review",
+    "removed_date_taipei": "2026-11-21",
+    "removal_reason": "User requested removal of unsuitable PDFs; simulation provides indirect evidence for the main real-world comparison."
+  },
+  {
+    "id": "P04_scanlon_2024_benchmarks",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15389588.2024.2380522",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "path": "raw\\papers\\P04_scanlon_2024_benchmarks.pdf",
+    "url": "https://arxiv.org/pdf/2312.13228v2",
+    "final_url": "https://arxiv.org/pdf/2312.13228v2",
+    "bytes": 1042054,
+    "sha256": "dd37d39bc6c6b4110f0ac197085779ecad39b85a2a08a1fb595a691ff85b4ac1",
+    "content_type": "application/pdf",
+    "status": "confirmed_supplementary",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "id": "P05_scanlon_2025_rave",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [],
+    "path": "raw\\papers\\P05_scanlon_2025_rave.pdf",
+    "url": "https://research.chalmers.se/publication/544909/file/544909_Fulltext.pdf",
+    "final_url": "https://research.chalmers.se/publication/544909/file/544909_Fulltext.pdf",
+    "bytes": 2955600,
+    "sha256": "80708a6049fd9b902413434e29ce9099d3ebda2f9ca00cae8278f50908628d52",
+    "content_type": "application/pdf",
+    "status": "confirmed_core",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "id": "P06_abdelaty_2024_matched",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [],
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11189485.1/PMC11189485.1.pdf",
+    "final_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11189485.1/PMC11189485.1.pdf",
+    "bytes": 1648972,
+    "sha256": "5b4b3f5b43de2ffdda5def87005e2119f9d9f6860e153826e094c905fbc9b360",
+    "content_type": "binary/octet-stream",
+    "removed_path": "raw\\papers\\P06_abdelaty_2024_matched.pdf",
+    "status": "removed_after_selection_review",
+    "removed_date_taipei": "2026-11-21",
+    "removal_reason": "User requested removal of unsuitable PDFs; mixed automation levels and driving modes, without per-mile exposure denominator."
+  },
+  {
+    "id": "P07_dingus_2016_human_risk",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [
+      {
+        "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.1513271113",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "status": "download_incomplete"
+  },
+  {
+    "id": "P08_koopman_2017_safety",
+    "acquired_date_taipei": "2026-11-21",
+    "attempts": [
+      {
+        "url": "https://users.ece.cmu.edu/~koopman/pubs/koopman17_ITS_av_safety.pdf",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      }
+    ],
+    "path": "raw\\papers\\P08_koopman_2017_safety.pdf",
+    "url": "https://users.ece.cmu.edu/~koopman/pubs/koopman17_ITS_av_safety.pdf",
+    "final_url": "https://users.ece.cmu.edu/~koopman/pubs/koopman17_ITS_av_safety.pdf",
+    "bytes": 465097,
+    "sha256": "c3c6f6a37f4094773f41443b4cb330cbd756ff142d35079823ae7f6c723495b4",
+    "acquisition_method": "PowerShell Invoke-WebRequest with Windows certificate validation",
+    "status": "confirmed_core",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "id": "P09_galera_2012_mind_wandering",
+    "path": "raw\\papers\\P09_galera_2012_mind_wandering.pdf",
+    "url": "https://www.bmj.com/content/bmj/345/bmj.e8105.full.pdf",
+    "final_url": "https://www.bmj.com/content/bmj/345/bmj.e8105.full.pdf",
+    "acquired_date_taipei": "2026-11-21",
+    "bytes": 391264,
+    "sha256": "61cdb0b2ab6a3b9d6e1ba934bb7c11c570eca802bfa6e71a4356d1dd981f99ec",
+    "acquisition_method": "PowerShell Invoke-WebRequest; PDF header and pypdf checked",
+    "attempts": [],
+    "status": "confirmed_core",
+    "selection_confirmed_date_taipei": "2026-11-21",
+    "ingest_completed_date_taipei": "2026-11-21",
+    "ingest_scope": "Full research note and important evidence checked; no independent statistical replication"
+  }
+]

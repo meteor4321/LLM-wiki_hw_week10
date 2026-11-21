@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-21",
+  "scope": "Three style samples only",
+  "render": "Local Edge headless; file URL; 1600x1000; virtual time 5000ms",
+  "images": [
+    {
+      "path": "presentation\\previews\\01-cover-v2.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 125830,
+      "visually_inspected": true
+    },
+    {
+      "path": "presentation\\previews\\02-evidence-v2.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 131498,
+      "visually_inspected": true
+    },
+    {
+      "path": "presentation\\previews\\03-concept-v2.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "bytes": 141534,
+      "visually_inspected": true
+    }
+  ],
+  "local_references": [
+    {
+      "target": "assets/fonts.css",
+      "exists": true
+    },
+    {
+      "target": "preview.css",
+      "exists": true
+    },
+    {
+      "target": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+      "exists": true
+    },
+    {
+      "target": "../raw/papers/P08_koopman_2017_safety.pdf#page=2",
+      "exists": true
+    },
+    {
+      "target": "preview.js",
+      "exists": true
+    },
+    {
+      "target": "presentation\\assets\\fonts.css: PreviewSerif.ttf",
+      "exists": true
+    },
+    {
+      "target": "presentation\\assets\\fonts.css: PreviewSans.ttf",
+      "exists": true
+    }
+  ],
+  "remote_runtime_dependencies": false,
+  "P01_table4_rechecked": true,
+  "bar_widths": {
+    "human": 404,
+    "Waymo": 85,
+    "units_per_value": 100,
+    "axis_start": 0,
+    "axis_end": 5
+  },
+  "not_tested": [
+    "actual button and keyboard interaction",
+    "fullscreen",
+    "mobile viewport",
+    "live browser offline interaction",
+    "12-slide final presentation"
+  ],
+  "resolved": [
+    "cover road/footer spacing and illustration label",
+    "data chart note/source overlap",
+    "cover center whitespace reduced",
+    "larger body, chart and source typography",
+    "concise one-sentence headings"
+  ],
+  "revision": "v2"
+}

@@ -1,0 +1,17 @@
+{
+  "date_taipei": "2026-11-21",
+  "markdown_links_checked": 106,
+  "markdown_missing": [],
+  "html_local_missing": [],
+  "pdf_anchors_valid": true,
+  "package": {
+    "path": "presentation-package.zip",
+    "bytes": 42976118,
+    "entries": 133,
+    "crc_error": null,
+    "html_target_missing": [],
+    "sha256": "7c836416b039008d2e3a71defdde25c710d5986065137610ff52d62f6d7b353d"
+  },
+  "main_slides": 14,
+  "appendix_slides": 9
+}

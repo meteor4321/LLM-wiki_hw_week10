@@ -1,0 +1,174 @@
+{
+  "date_taipei": "2026-11-21",
+  "markdown_files_scanned": 25,
+  "local_links_checked": 198,
+  "missing_local_links": [],
+  "retained_pdf_integrity": [
+    {
+      "id": "P01_kusano_2025_56_7m",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 58
+    },
+    {
+      "id": "P02_dilillo_2024_insurance",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 7
+    },
+    {
+      "id": "P04_scanlon_2024_benchmarks",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 29
+    },
+    {
+      "id": "P05_scanlon_2025_rave",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 16
+    },
+    {
+      "id": "P08_koopman_2017_safety",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 12
+    },
+    {
+      "id": "P09_galera_2012_mind_wandering",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true,
+      "pages": 7
+    }
+  ],
+  "arithmetic_checks": [
+    {
+      "name": "P02 PD reduction approximate percent",
+      "actual": 76.07361963190183,
+      "expected": 76,
+      "tolerance": 0.2,
+      "passed": true
+    },
+    {
+      "name": "P02 PD absolute frequency difference",
+      "actual": 2.4799999999999995,
+      "expected": 2.48,
+      "tolerance": 1e-05,
+      "passed": true
+    },
+    {
+      "name": "P04 national vehicle rate",
+      "actual": 3.294186423777553,
+      "expected": 3.29,
+      "tolerance": 0.005,
+      "passed": true
+    },
+    {
+      "name": "P04 vehicles per crash approximate",
+      "actual": 1.7753741002438919,
+      "expected": 1.78,
+      "tolerance": 0.005,
+      "passed": true
+    },
+    {
+      "name": "P04 SF to national ratio",
+      "actual": 3.306818181818182,
+      "expected": 3.31,
+      "tolerance": 0.005,
+      "passed": true
+    },
+    {
+      "name": "P04 SF percent higher",
+      "actual": 230.68181818181822,
+      "expected": 231,
+      "tolerance": 0.5,
+      "passed": true
+    },
+    {
+      "name": "P04 nonfatal inverse reporting factor",
+      "actual": 1.4684287812041115,
+      "expected": 1.47,
+      "tolerance": 0.005,
+      "passed": true
+    },
+    {
+      "name": "P08 hypothetical operation count",
+      "actual": 10000000000,
+      "expected": 10000000000,
+      "tolerance": 0,
+      "passed": true
+    },
+    {
+      "name": "P09 sample grouping",
+      "actual": 955,
+      "expected": 955,
+      "tolerance": 0,
+      "passed": true
+    },
+    {
+      "name": "P09 unadjusted OR only",
+      "actual": 2.168106312292359,
+      "expected": 2.17,
+      "tolerance": 0.005,
+      "passed": true
+    },
+    {
+      "name": "P09 intense percent responsible",
+      "actual": 17.218543046357617,
+      "expected": 17,
+      "tolerance": 0.5,
+      "passed": true
+    },
+    {
+      "name": "P09 intense percent not responsible",
+      "actual": 8.565737051792828,
+      "expected": 9,
+      "tolerance": 0.5,
+      "passed": true
+    }
+  ],
+  "parsed_json_files": [
+    "sources\\download_manifest.json",
+    "sources\\pdf_checks.json",
+    "extracted\\P01_verified_results.json",
+    "extracted\\remaining_verified_results.json"
+  ],
+  "reviewed_visual_pages": {
+    "P02": [
+      4,
+      5
+    ],
+    "P04": [
+      8,
+      9,
+      22,
+      25,
+      29
+    ],
+    "P05": [
+      5,
+      13,
+      14
+    ],
+    "P08": [
+      2,
+      3,
+      6
+    ],
+    "P09": [
+      2,
+      6,
+      7
+    ]
+  },
+  "visual_preview_files_present": true,
+  "excluded_pdfs_absent": true,
+  "limits": "Link targets only; no Markdown/Mermaid UI rendering, external URL availability, HTML/offline checks, or original statistical replication",
+  "checks_passed": true
+}

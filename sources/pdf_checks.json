@@ -1,0 +1,102 @@
+[
+  {
+    "path": "raw\\papers\\P01_kusano_2025_56_7m.pdf",
+    "pages": 58,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      19,
+      20,
+      31,
+      40,
+      42
+    ],
+    "ingest_scope": "First paper note and important evidence checked; raw analysis not independently reproduced"
+  },
+  {
+    "path": "raw\\papers\\P02_dilillo_2024_insurance.pdf",
+    "pages": 7,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      4,
+      5
+    ],
+    "ingest_scope": "Research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "path": "raw\\papers\\P03_scanlon_2021_simulation.pdf",
+    "pages": 24,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "removed_after_selection_review"
+  },
+  {
+    "path": "raw\\papers\\P04_scanlon_2024_benchmarks.pdf",
+    "pages": 29,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      8,
+      9,
+      22,
+      25,
+      29
+    ],
+    "ingest_scope": "Research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "path": "raw\\papers\\P05_scanlon_2025_rave.pdf",
+    "pages": 16,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      5,
+      13,
+      14
+    ],
+    "ingest_scope": "Research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "path": "raw\\papers\\P06_abdelaty_2024_matched.pdf",
+    "pages": 12,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "removed_after_selection_review"
+  },
+  {
+    "path": "raw\\papers\\P08_koopman_2017_safety.pdf",
+    "pages": 12,
+    "readable_pdf": true,
+    "text_extraction_caveat": "CFF font parsing warning; verify original pages",
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      2,
+      3,
+      6
+    ],
+    "ingest_scope": "Research note and important evidence checked; no independent statistical replication"
+  },
+  {
+    "path": "raw\\papers\\P09_galera_2012_mind_wandering.pdf",
+    "pages": 7,
+    "readable_pdf": true,
+    "text_extraction_caveat": null,
+    "status": "retained",
+    "ingest_visual_pages_2026_11_21": [
+      2,
+      6,
+      7
+    ],
+    "ingest_scope": "Research note and important evidence checked; no independent statistical replication"
+  }
+]

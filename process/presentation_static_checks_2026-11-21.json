@@ -1,0 +1,223 @@
+{
+  "local_missing": [],
+  "pdf_anchor_checks": [
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=4",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=2",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=6",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=8",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=11",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P05_scanlon_2025_rave.pdf#page=6",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=5",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=40",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P08_koopman_2017_safety.pdf#page=2",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=12",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=10",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=3",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=11",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=5",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=3",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=22",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=6",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P05_scanlon_2025_rave.pdf#page=14",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=4",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P01_kusano_2025_56_7m.pdf#page=1",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P02_dilillo_2024_insurance.pdf#page=1",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P04_scanlon_2024_benchmarks.pdf#page=1",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P05_scanlon_2025_rave.pdf#page=1",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P08_koopman_2017_safety.pdf#page=1",
+      "valid": true
+    },
+    {
+      "href": "../raw/papers/P09_galera_2012_mind_wandering.pdf#page=1",
+      "valid": true
+    }
+  ],
+  "pdf": [
+    {
+      "path": "presentation\\slides.pdf",
+      "pages": 23,
+      "sizes_points": [
+        [
+          906.96,
+          510.0
+        ]
+      ],
+      "text_chars": [
+        138,
+        300,
+        337,
+        237,
+        246,
+        305,
+        312,
+        285,
+        273,
+        315,
+        249,
+        275,
+        295,
+        271,
+        318,
+        325,
+        315,
+        253,
+        305,
+        381,
+        682,
+        891,
+        713
+      ],
+      "nav_absent": true
+    },
+    {
+      "path": "presentation\\renders\\chrome-print.pdf",
+      "pages": 23,
+      "sizes_points": [
+        [
+          906.96,
+          510.0
+        ]
+      ],
+      "text_chars": [
+        138,
+        300,
+        337,
+        237,
+        246,
+        305,
+        312,
+        285,
+        273,
+        315,
+        249,
+        275,
+        295,
+        271,
+        318,
+        325,
+        315,
+        253,
+        305,
+        381,
+        682,
+        891,
+        713
+      ],
+      "nav_absent": true
+    }
+  ]
+}

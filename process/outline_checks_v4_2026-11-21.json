@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-21",
+  "version": "v4",
+  "main_slides": 14,
+  "slide_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "estimated_script_seconds": 780,
+  "local_link_targets": 92,
+  "missing": [],
+  "html_exists": false,
+  "new_opening_slides": [
+    2,
+    3
+  ],
+  "limitations": [
+    "Duration is an estimate; no rehearsal or HTML rendering performed",
+    "Background uses existing research scope; no current operating-city claims",
+    "Existing three-slide style previews retain v3 numbering"
+  ]
+}

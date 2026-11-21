@@ -1,0 +1,13 @@
+{
+  "local_date": "2026-11-21",
+  "scope": "documentation only",
+  "checked_files": [
+    "presentation/design-spec.md",
+    "AGENTS.md",
+    "README.md",
+    "PROJECT_HANDOFF.md"
+  ],
+  "broken_local_links": [],
+  "required_topics_present": true,
+  "presentation_runtime_tested": false
+}

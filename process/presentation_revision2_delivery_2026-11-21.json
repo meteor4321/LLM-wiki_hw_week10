@@ -1,0 +1,100 @@
+{
+  "revision": 2,
+  "main_slides": 14,
+  "appendix_slides": 0,
+  "notes": false,
+  "print_feature": false,
+  "source_only_footer": true,
+  "local_links_checked": 27,
+  "pdf_source_anchors_valid": true,
+  "markdown_links_checked": 96,
+  "markdown_missing": [],
+  "visual_review": {
+    "edge_html_slides": 14,
+    "screenshots": [
+      {
+        "slide": 1,
+        "screenshot": "presentation/renders/revision2/edge-01.png"
+      },
+      {
+        "slide": 2,
+        "screenshot": "presentation/renders/revision2/edge-02.png"
+      },
+      {
+        "slide": 3,
+        "screenshot": "presentation/renders/revision2/edge-03.png"
+      },
+      {
+        "slide": 4,
+        "screenshot": "presentation/renders/revision2/edge-04.png"
+      },
+      {
+        "slide": 5,
+        "screenshot": "presentation/renders/revision2/edge-05.png"
+      },
+      {
+        "slide": 6,
+        "screenshot": "presentation/renders/revision2/edge-06.png"
+      },
+      {
+        "slide": 7,
+        "screenshot": "presentation/renders/revision2/edge-07.png"
+      },
+      {
+        "slide": 8,
+        "screenshot": "presentation/renders/revision2/edge-08.png"
+      },
+      {
+        "slide": 9,
+        "screenshot": "presentation/renders/revision2/edge-09.png"
+      },
+      {
+        "slide": 10,
+        "screenshot": "presentation/renders/revision2/edge-10.png"
+      },
+      {
+        "slide": 11,
+        "screenshot": "presentation/renders/revision2/edge-11.png"
+      },
+      {
+        "slide": 12,
+        "screenshot": "presentation/renders/revision2/edge-12.png"
+      },
+      {
+        "slide": 13,
+        "screenshot": "presentation/renders/revision2/edge-13.png"
+      },
+      {
+        "slide": 14,
+        "screenshot": "presentation/renders/revision2/edge-14.png"
+      }
+    ],
+    "print_pdf": "removed at user request; not generated or tested",
+    "physical_phone_projector": "not tested"
+  },
+  "package": {
+    "path": "presentation-package.zip",
+    "entries": [
+      "README.txt",
+      "presentation/index.html",
+      "presentation/deck.css",
+      "presentation/deck.js",
+      "presentation/assets/font-sources.json",
+      "presentation/assets/fonts.css",
+      "presentation/assets/NotoSansTC-OFL.txt",
+      "presentation/assets/NotoSerifTC-OFL.txt",
+      "presentation/assets/PreviewSans.ttf",
+      "presentation/assets/PreviewSerif.ttf",
+      "raw/papers/P01_kusano_2025_56_7m.pdf",
+      "raw/papers/P02_dilillo_2024_insurance.pdf",
+      "raw/papers/P04_scanlon_2024_benchmarks.pdf",
+      "raw/papers/P05_scanlon_2025_rave.pdf",
+      "raw/papers/P08_koopman_2017_safety.pdf",
+      "raw/papers/P09_galera_2012_mind_wandering.pdf"
+    ],
+    "bytes": 23381523,
+    "sha256": "9985b94f14881630a97396a67d211a250a6bd81c0832f846ec30d6d8afb24d23",
+    "crc_error": null,
+    "local_targets_present": true
+  }
+}

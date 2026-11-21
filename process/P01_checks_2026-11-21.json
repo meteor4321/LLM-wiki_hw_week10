@@ -1,0 +1,79 @@
+{
+  "date_taipei": "2026-11-21",
+  "markdown_files_scanned": 17,
+  "local_links_checked": 88,
+  "missing_local_links": [],
+  "retained_pdf_integrity": [
+    {
+      "id": "P01_kusano_2025_56_7m",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    },
+    {
+      "id": "P02_dilillo_2024_insurance",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    },
+    {
+      "id": "P04_scanlon_2024_benchmarks",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    },
+    {
+      "id": "P05_scanlon_2025_rave",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    },
+    {
+      "id": "P08_koopman_2017_safety",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    },
+    {
+      "id": "P09_galera_2012_mind_wandering",
+      "size_matches": true,
+      "sha256_matches": true,
+      "pdf_header": true
+    }
+  ],
+  "P01_pages": 58,
+  "P01_arithmetic_checks": [
+    {
+      "outcome": "any_injury_reported",
+      "rate_from_count_rounded": 0.85,
+      "published": 0.85,
+      "matches": true
+    },
+    {
+      "outcome": "airbag_deployment",
+      "rate_from_count_rounded": 0.32,
+      "published": 0.32,
+      "matches": true
+    },
+    {
+      "outcome": "suspected_serious_injury_plus",
+      "rate_from_count_rounded": 0.04,
+      "published": 0.04,
+      "matches": true
+    }
+  ],
+  "P01_reviewed_visual_pages": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    19,
+    20,
+    31,
+    40,
+    42
+  ],
+  "P03_and_P06_not_present": true,
+  "limits": "Local link targets only, no Markdown/Mermaid rendered UI test, no remote URL availability test or full statistical replication."
+}

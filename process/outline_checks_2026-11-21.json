@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-21",
+  "version": "v3",
+  "local_link_targets": 71,
+  "missing": [],
+  "main_slides": 12,
+  "process_slides": 0,
+  "estimated_script_seconds": 690,
+  "html_exists": false,
+  "limitations": [
+    "No rendering, offline test, or rehearsal performed; duration is an estimate",
+    "Numerical claims use existing verified Wiki; no new original-data analysis"
+  ],
+  "editorial_review": {
+    "scope": "Compare wording with existing Wiki; preserve rates, intervals, adverse subgroup, event count, and source dependency",
+    "conclusion": "Affirmative statement with named fleet, conditions, metrics and human benchmarks",
+    "visual_style": "Deferred to next phase per user instruction"
+  }
+}

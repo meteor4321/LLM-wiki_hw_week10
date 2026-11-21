@@ -1,0 +1,168 @@
+{
+  "date_taipei": "2026-11-21",
+  "html_visual_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "edge_pdf_visual_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "chrome_pdf_raster_comparison": [
+    {
+      "page": 1,
+      "identical": true
+    },
+    {
+      "page": 2,
+      "identical": true
+    },
+    {
+      "page": 3,
+      "identical": true
+    },
+    {
+      "page": 4,
+      "identical": true
+    },
+    {
+      "page": 5,
+      "identical": true
+    },
+    {
+      "page": 6,
+      "identical": true
+    },
+    {
+      "page": 7,
+      "identical": true
+    },
+    {
+      "page": 8,
+      "identical": true
+    },
+    {
+      "page": 9,
+      "identical": true
+    },
+    {
+      "page": 10,
+      "identical": true
+    },
+    {
+      "page": 11,
+      "identical": true
+    },
+    {
+      "page": 12,
+      "identical": true
+    },
+    {
+      "page": 13,
+      "identical": true
+    },
+    {
+      "page": 14,
+      "identical": true
+    },
+    {
+      "page": 15,
+      "identical": true
+    },
+    {
+      "page": 16,
+      "identical": true
+    },
+    {
+      "page": 17,
+      "identical": true
+    },
+    {
+      "page": 18,
+      "identical": true
+    },
+    {
+      "page": 19,
+      "identical": true
+    },
+    {
+      "page": 20,
+      "identical": true
+    },
+    {
+      "page": 21,
+      "identical": true
+    },
+    {
+      "page": 22,
+      "identical": true
+    },
+    {
+      "page": 23,
+      "identical": true
+    }
+  ],
+  "review_sheets": [
+    "presentation/renders/print-review-01.jpg",
+    "presentation/renders/print-review-05.jpg",
+    "presentation/renders/print-review-09.jpg",
+    "presentation/renders/print-review-13.jpg",
+    "presentation/renders/print-review-17.jpg",
+    "presentation/renders/print-review-21.jpg"
+  ],
+  "observations": [
+    "All 23 HTML slides and Edge PDF pages visually reviewed; no visible text overlaps, source collisions or unintended cropping.",
+    "Cover SVG outer box intentionally extends 0.3% beyond right edge, matching approved sample; actual graphic crop reviewed.",
+    "Mobile emulation only, not physical device; 390x844 opens without horizontal overflow.",
+    "Full bibliographies split across 3 appendix pages. P09 author names checked against original PDF first page before final export."
+  ],
+  "not_verified": [
+    "Physical projector",
+    "Physical phone",
+    "Human timed rehearsal",
+    "Manual print dialog",
+    "Independent reanalysis of original study datasets"
+  ]
+}
